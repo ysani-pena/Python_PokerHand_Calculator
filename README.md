@@ -30,9 +30,9 @@ This Python application simulates a visual poker hand calculator using **PySide6
 
 Make sure Python is installed. Then install PySide6:
 
-pip install PySide6
+pip install PySide6 (command to install PySide6 in cmd)
 
-python poker_hand_calc.py (run the app)
+python poker_hand_calc.py (command to run the app in cmd)
 
 ---
 ##📜 License
