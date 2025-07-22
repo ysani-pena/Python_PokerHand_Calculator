@@ -1,6 +1,6 @@
 # 🃏 Poker Hand Calculator
 
-A collaborative project by me and my partner **Ryan Lopez** did for the _Fundamentals of Software Design course.  
+A collaborative project me and my partner **Ryan Lopez** did for the _Fundamentals of Software Design course.  
 This Python application simulates a visual poker hand calculator using **PySide6** and determines the winner between two players based on classic Texas Hold'em hand rankings.
 
 ---
